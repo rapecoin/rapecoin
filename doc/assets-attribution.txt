@@ -1,0 +1,11 @@
+Icon:  scripts/img/reload.xcf (modified), src/qt/res/movies/update_spinner.mng
+Icon Pack: Kids
+Designer: Everaldo (Everaldo Coelho)
+License: GNU/GPL 
+Site: http://findicons.com/icon/17102/reload?id=17102
+
+Icon: src/qt/res/icons/debugwindow.png
+Designer: Vignoni David
+Site: http://www.oxygen-icons.org/
+License: Oxygen icon theme is dual licensed. You may copy it under the Creative Common Attribution-ShareAlike 3.0 License or the GNU Library General Public License.
+
